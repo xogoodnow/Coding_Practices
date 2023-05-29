@@ -1,1 +1,1 @@
-This directory contains my approach and solutions for different coding challanges.
+This repository contains my approach and solutions for different python challanges on hackerrank.
